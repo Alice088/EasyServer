@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/server/builder/server_product.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ServerBuilder">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/server/builder/server_builder.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ServerDirector">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/server/builder/server_director.go" />
+              <option value="file://$PROJECT_DIR$/internal/server/builder/server_product.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/cmd/server/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1723005425180" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/pkg/http_server/handlers/time/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1723009066581" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/pkg/http_server/middleware/admin_check.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1723007074314" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/pkg/http_server/middleware/admin_check/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1723008898738" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/server/builder/server_builder.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1723007777563" />
+              <option name="schema">
+                <list>
+                  <option value="ServerBuilder" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/server/builder/server_director.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1723007377097" />
+              <option name="schema">
+                <list>
+                  <option value="ServerDirector" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/server/builder/server_product.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1723005499906" />
+              <option name="schema">
+                <list>
+                  <option value="Server" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/server/run.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1723007382994" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="server" value="Server" />
+        <entry key="server_builder" value="ServerBuilder" />
+        <entry key="server_director" value="ServerDirector" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1723004617358" />
+  </component>
+</project>
